@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": "A",
+        "extra_message_count": 6
+    },
+    {
+        "user_id": "B",
+        "extra_message_count": 10
+    },
+    {
+        "user_id": "C",
+        "extra_message_count": 12
+    }
+]
